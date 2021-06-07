@@ -10,7 +10,9 @@ namespace Gitx
         public void TestMethod1()
         {
 
-            Console.WriteLine("Gitx");
+            Console.WriteLine("GitP");
+
+
         }
     }
 }
