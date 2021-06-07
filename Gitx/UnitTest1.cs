@@ -14,7 +14,7 @@ namespace Gitx
 
             Console.WriteLine("GitY");
 
-            Console.WriteLine("GitZ");
+            Console.WriteLine("Gitf");
 
         }
     }
