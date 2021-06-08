@@ -18,8 +18,11 @@ namespace Gitx
 
             Console.WriteLine("Git-dev");
 
+<<<<<<< HEAD
 
             Console.WriteLine("today");
+=======
+>>>>>>> 18052b9a43aff4f4709642da2ad77fca837a7657
         }
     }
 }
