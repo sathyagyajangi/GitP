@@ -17,6 +17,9 @@ namespace Gitx
             Console.WriteLine("Gitf");
 
             Console.WriteLine("Git-dev");
+
+
+            Console.WriteLine("today");
         }
     }
 }
